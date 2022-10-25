@@ -2,9 +2,9 @@
     "name": "jr-smith/laravel-uuid-trait",
     "description": ":package_description",
     "keywords": [
-        ":vendor_name",
+        "jr-smith",
         "laravel",
-        ":package_slug"
+        "laravel-uuid-trait"
     ],
     "homepage": "https://github.com/jr-smith/laravel-uuid-trait",
     "license": "MIT",
